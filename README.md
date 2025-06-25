@@ -1,4 +1,4 @@
 # firstapp-explore
 This is my first project
 <br>
-Author-Harshini priya
+Author-Harshini priya(web development)
